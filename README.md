@@ -48,7 +48,7 @@ I’m passionate about building solutions that simplify complexity, automate pro
 ---
 
 ## 📫 Let’s Connect
-- 💼 [LinkedIn:](#) www.linkedin.com/in/sengupta1280
+- 💼 LinkedIn:[www.linkedin.com/in/sengupta1280] (#)
 - 🐙 [GitHub](#)  
 - ✉️ sengupta1280@gmail.com  
 
