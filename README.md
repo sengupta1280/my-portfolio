@@ -48,9 +48,9 @@ I’m passionate about building solutions that simplify complexity, automate pro
 ---
 
 ## 📫 Let’s Connect
-- 💼 [LinkedIn](#)  
+- 💼 [LinkedIn](#www.linkedin.com/in/sengupta1280)  
 - 🐙 [GitHub](#)  
-- ✉️ abhishek.email@example.com  
+- ✉️ sengupta1280@gmail.com  
 
 ---
 
