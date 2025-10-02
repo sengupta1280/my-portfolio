@@ -1,5 +1,5 @@
 # my-portfolio
-# 👋 Hey there, I’m Abhishek  
+# 👋 Hey there, I’m Abhishe
 
 Welcome to my GitHub portfolio — a space where I blend **data, analytics, and business impact**.  
 I’m passionate about building solutions that simplify complexity, automate processes, and uncover insights hidden in data.  
