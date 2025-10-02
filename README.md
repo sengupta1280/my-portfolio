@@ -23,7 +23,7 @@ I’m passionate about building solutions that simplify complexity, automate pro
 
 ## 🚀 Featured Projects
 
-### 🍷 [Wine Market Investment Analysis](https://github.com/sengupta1280/wine-market-analysis)
+### 🍷 [Wine Market Investment Analysis](https://github.com/sengupta1280/my-portfolio/tree/main/Projects/Wine%20Market%20Analysis)
 Explores global wine market using Vivino’s dataset (2.6M+ reviews).  
 - Tools: Excel, Pivot Tables, Statistical Analysis  
 - Key Insights: Most wines priced $9.90–$32.50; >4.0 ratings show strongest investment potential  
@@ -31,7 +31,7 @@ Explores global wine market using Vivino’s dataset (2.6M+ reviews).
 
 ---
 
-### 🏠 [Melbourne Real Estate Analytics](https://github.com/sengupta1280/real-estate-analytics)
+### 🏠 [Melbourne Real Estate Analytics](https://github.com/sengupta1280/my-portfolio/tree/main/Projects/Melbourne%20Real%20Estate%20Analysis)
 Analyzes housing prices across Melbourne suburbs.  
 - Tools: Excel, Descriptive Statistics  
 - Key Insights: Distance from CBD drives pricing; East vs West price gaps are significant  
@@ -39,7 +39,7 @@ Analyzes housing prices across Melbourne suburbs.
 
 ---
 
-### ⚽ [Football Analytics Dashboard](https://github.com/sengupta1280/football-analytics-dashboard)
+### ⚽ [Football Analytics Dashboard](https://github.com/sengupta1280/my-portfolio/tree/main/Projects/Football%20Analytics%20Dashboard)
 Interactive **Tableau dashboards** on football player and match data.  
 - Tools: Tableau, CSV datasets  
 - Focus: Goalkeeper performance, Messi vs Ronaldo comparison, match period stats  
@@ -47,7 +47,7 @@ Interactive **Tableau dashboards** on football player and match data.
 
 ---
 
-### 🤖 [AI & Analytics Workbench](https://github.com/sengupta1280/ai-analytics-workbench)
+### 🤖 [AI & Analytics Workbench](https://github.com/sengupta1280/my-portfolio/tree/main/Projects/AI%20and%20Analytics%20Workbench)
 Multi-part AI & ML project covering chatbots, AutoML, and decision trees.  
 - Tools: Dialogflow CX, Azure ML, Google Colab, Python  
 - Highlights:  
@@ -57,7 +57,7 @@ Multi-part AI & ML project covering chatbots, AutoML, and decision trees.
 
 ---
 
-### ❤️ [Heartwise Analytics – Cardiovascular Risk Prediction](https://github.com/sengupta1280/heartwise-analytics)
+### ❤️ [Prediction of Cardiovascular Diseases using Predictive Analytics](https://github.com/sengupta1280/my-portfolio/tree/main/Projects/Prediction%20of%20Cardiovascular%20Diseases%20using%20Predictive%20Analytics)
 AI-powered healthcare analytics for predicting CVD risk.  
 - Tools: Python, Scikit-learn, Azure AutoML  
 - Key Insights: Age, cholesterol, BP, and BMI are strongest predictors; AutoML >90% accuracy  
@@ -65,7 +65,7 @@ AI-powered healthcare analytics for predicting CVD risk.
 
 ---
 
-### 🚢 [Titanic Survival Classification](https://github.com/sengupta1280/titanic-survival-classification)
+### 🚢 [Titanic Survival Classification](https://github.com/sengupta1280/my-portfolio/tree/main/Projects/Titanic%20Survival%20Classification%20-%20Predictive%20Analytics)
 Classic ML case study predicting Titanic passenger survival.  
 - Tools: Python, Scikit-learn, Seaborn  
 - Models: Decision Tree (~78% accuracy), Neural Network (~82% accuracy)  
@@ -73,7 +73,7 @@ Classic ML case study predicting Titanic passenger survival.
 
 ---
 
-### 🛒 [Customer Segmentation with Clustering](https://github.com/sengupta1280/customer-segmentation-clustering)
+### 🛒 [Customer Segmentation with Clustering](https://github.com/sengupta1280/my-portfolio/tree/main/Projects/Customer%20Segmentation%20with%20Data%20Clustering)
 Unsupervised ML project segmenting wholesale customers.  
 - Tools: Python, Scikit-learn, Seaborn  
 - Methods: K-Means, Hierarchical Clustering, Silhouette Score  
@@ -82,7 +82,7 @@ Unsupervised ML project segmenting wholesale customers.
 
 ---
 
-### 🏡 [Property Valuation – Predictive Analytics](https://github.com/sengupta1280/real-estate-price-prediction)
+### 🏡 [Property Valuation – Predictive Analytics with Regression & Decision Trees](https://github.com/sengupta1280/my-portfolio/tree/main/Projects/Property%20Valuation%20using%20Predictive%20Analytics)
 Predicting housing prices in the US with regression & tree models.  
 - Tools: R, ggplot2, Decision Trees, Regression  
 - Results: Linear Regression RMSE ≈ 29k; Decision Tree RMSE ≈ 51k  
