@@ -31,6 +31,7 @@ Machine learning project predicting customer churn using classification models.
 - XGBoost: 84% accuracy (Precision 0.85 | Recall 0.84 | F1 0.84)  
 - Top Factors: Contract type, payment method, and customer tenure.
 
+---
 
 ### 🍷 [Wine Market Investment Analysis](https://github.com/sengupta1280/my-portfolio/tree/main/Projects/Wine%20Market%20Analysis)
 Explores global wine market using Vivino’s dataset (2.6M+ reviews).  
