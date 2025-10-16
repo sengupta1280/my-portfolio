@@ -23,6 +23,14 @@ I’m passionate about building solutions that simplify complexity, automate pro
 
 ## 🚀 Featured Projects
 
+
+### 📱 [Telecom Customer Churn Prediction](https://github.com/sengupta1280/my-portfolio/tree/main/Projects/Telecom%20Churn%20Prediction)
+Machine learning project predicting telecom customer churn using classification models.  
+- Tools: Python (Pandas, Scikit-learn, XGBoost, Imbalanced-learn)  
+- Models: Random Forest, XGBoost  
+- Key Insight: Payment method, contract type, and customer tenure strongly influence churn.  
+- Achieved strong precision–recall balance using oversampling and model tuning.
+
 ### 🍷 [Wine Market Investment Analysis](https://github.com/sengupta1280/my-portfolio/tree/main/Projects/Wine%20Market%20Analysis)
 Explores global wine market using Vivino’s dataset (2.6M+ reviews).  
 - Tools: Excel, Pivot Tables, Statistical Analysis  
