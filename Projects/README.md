@@ -38,7 +38,6 @@ A terminal-based agent that streams responses using a LangGraph **ReAct** execut
 - Stack: Python, LangGraph, LangChain, `langchain-openai`, `python-dotenv`  
 - Run locally with your `OPENAI_API_KEY` to chat or extend with custom tools.
 
----
 
 ### 🍷 [Wine Market Investment Analysis](https://github.com/sengupta1280/my-portfolio/tree/main/Projects/Wine%20Market%20Analysis)
 Explores global wine market using Vivino’s dataset (2.6M+ reviews).  
