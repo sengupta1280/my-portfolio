@@ -33,7 +33,7 @@ Machine learning project predicting customer churn using classification models.
 
 ---
 
-### 🤖 AI Projects Agent (LangGraph + OpenAI)
+### 🤖 [AI Projects Agent (LangGraph + OpenAI)](https://github.com/sengupta1280/my-portfolio/tree/main/Projects/AI%20Based%20Projects/Simple%20AI%20Agent)
 A terminal-based agent that streams responses using a LangGraph **ReAct** executor with OpenAI’s Chat Completions.  
 - Stack: Python, LangGraph, LangChain, `langchain-openai`, `python-dotenv`  
 - Run locally with your `OPENAI_API_KEY` to chat or extend with custom tools.
