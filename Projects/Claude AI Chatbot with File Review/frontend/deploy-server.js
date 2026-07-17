@@ -67,6 +67,6 @@ const server = http.createServer((req, res) => {
 
 server.listen(PORT, () => {
   console.log(`\n🌐 Chatbot web app running on http://localhost:${PORT}`);
-  console.log(`📱 Access from phone: http://10.113.10.230:${PORT}`);
+  console.log(`📱 Access from phone: http://<YOUR_PC_IP>:${PORT}`);
   console.log(`\n✅ Ready!\n`);
 });
