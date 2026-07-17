@@ -40,6 +40,15 @@ A terminal-based agent that streams responses using a LangGraph **ReAct** execut
 
 ---
 
+### 🤖 [Claude AI Chatbot with File Review](https://github.com/sengupta1280/my-portfolio/tree/main/Projects/Claude%20AI%20Chatbot%20with%20File%20Review)
+A full-stack conversational AI chatbot that connects to Claude AI through an API proxy, supporting **file upload, image analysis, and persistent conversation history**.  
+- **Frontend:** React 19, Vite 8, Axios — mobile-responsive chat UI with file upload and image previews  
+- **Backend:** Node.js 22, Express 5 — REST API with file storage, conversation persistence, and proxy to Claude  
+- **Features:** Real-time SSE streaming, base64 image content blocks, conversation history sidebar, click-to-expand lightbox, 50MB file uploads  
+- **Deliverables:** Full source (backend + frontend), GitHub-ready README with architecture and setup guide  
+
+---
+
 ### 🍷 [Wine Market Investment Analysis](https://github.com/sengupta1280/my-portfolio/tree/main/Projects/Wine%20Market%20Analysis)
 Explores global wine market using Vivino’s dataset (2.6M+ reviews).  
 - Tools: Excel, Pivot Tables, Statistical Analysis  
